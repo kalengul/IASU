@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.447,C:\КАФЕДРА\Программа для ИАСУ\UMTOForm.pas=C:\КАФЕДРА\Программа для ИАСУ\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.873,C:\КАФЕДРА\Программа для ИАСУ\UGroup.pas=C:\КАФЕДРА\Программа для ИАСУ\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.260,C:\КАФЕДРА\Программа для ИАСУ\ULoadExcel.pas=C:\КАФЕДРА\Программа для ИАСУ\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.956,C:\КАФЕДРА\Программа для ИАСУ\UMTOForm.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.277,=C:\КАФЕДРА\Программа для ИАСУ\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.256,=C:\КАФЕДРА\Программа для ИАСУ\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,E:\Программа для ИАСУ\UMain.pas=C:\Users\Student\Documents\Borland Studio Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.242,C:\КАФЕДРА\Программа для ИАСУ\USemPlan.pas=C:\КАФЕДРА\Программа для ИАСУ\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,C:\КАФЕДРА\Программа для ИАСУ\UConstParametrs.pas=C:\КАФЕДРА\Программа для ИАСУ\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.841,C:\КАФЕДРА\Программа для ИАСУ\UYchPlan.pas=C:\КАФЕДРА\Программа для ИАСУ\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.447,C:\КАФЕДРА\Программа для ИАСУ\UMTOForm.dfm=C:\КАФЕДРА\Программа для ИАСУ\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,E:\КАФЕДРА\РАЗНОЕ\Программа для ИАСУ\UChangeNagryzka.dfm=E:\КАФЕДРА\РАЗНОЕ\Программа для ИАСУ\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.232,C:\КАФЕДРА\Программа для ИАСУ\USaveExcel.pas=C:\КАФЕДРА\Программа для ИАСУ\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.250,C:\КАФЕДРА\Программа для ИАСУ\UAuditoria.pas=C:\КАФЕДРА\Программа для ИАСУ\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,E:\КАФЕДРА\РАЗНОЕ\Программа для ИАСУ\UChangeNagryzka.pas=E:\КАФЕДРА\РАЗНОЕ\Программа для ИАСУ\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.046,C:\КАФЕДРА\Программа для ИАСУ\UMTO.pas=C:\КАФЕДРА\Программа для ИАСУ\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.143,=C:\КАФЕДРА\Программа для ИАСУ\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.252,C:\КАФЕДРА\Программа для ИАСУ\UIndividualPlanPrepod.pas=C:\КАФЕДРА\Программа для ИАСУ\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.bdsproj,E:\Программа для ИАСУ\IASU.bdsproj=C:\Users\Student\Documents\Borland Studio Projects\Project1.bdsproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.789,C:\КАФЕДРА\Программа для ИАСУ\UNagryzka.pas=C:\КАФЕДРА\Программа для ИАСУ\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,E:\Программа для ИАСУ\UMain.dfm=C:\Users\Student\Documents\Borland Studio Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.274,=C:\КАФЕДРА\Программа для ИАСУ\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.831,=C:\КАФЕДРА\Программа для ИАСУ\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.890,=C:\КАФЕДРА\Программа для ИАСУ\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.820,=C:\КАФЕДРА\Программа для ИАСУ\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.368,=C:\КАФЕДРА\Программа для ИАСУ\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.135,=C:\КАФЕДРА\Программа для ИАСУ\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.707,=C:\КАФЕДРА\Программа для ИАСУ\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

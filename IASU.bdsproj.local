@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018.09.26 12:32:37.610.pas,C:\Users\Student\Documents\Borland Studio Projects\Unit1.pas=E:\Программа для ИАСУ\UMain.pas</Transaction>
+    <Transaction>2018.09.26 12:32:37.624.dfm,C:\Users\Student\Documents\Borland Studio Projects\Unit1.dfm=E:\Программа для ИАСУ\UMain.dfm</Transaction>
+    <Transaction>2018.09.26 12:33:00.590.bdsproj,C:\Users\Student\Documents\Borland Studio Projects\Project1.bdsproj=E:\Программа для ИАСУ\IASU.bdsproj</Transaction>
+    <Transaction>2018.10.05 22:17:47.144.pas,E:\КАФЕДРА\РАЗНОЕ\Программа для ИАСУ\Unit1.pas=E:\КАФЕДРА\РАЗНОЕ\Программа для ИАСУ\UChangeNagryzka.pas</Transaction>
+    <Transaction>2018.10.05 22:17:47.148.dfm,E:\КАФЕДРА\РАЗНОЕ\Программа для ИАСУ\Unit1.dfm=E:\КАФЕДРА\РАЗНОЕ\Программа для ИАСУ\UChangeNagryzka.dfm</Transaction>
+    <Transaction>2019.02.11 09:15:53.467.pas,C:\КАФЕДРА\Программа для ИАСУ\Unit1.pas=C:\КАФЕДРА\Программа для ИАСУ\UConstParametrs.pas</Transaction>
+  </Transactions>
+</BorlandProject>
